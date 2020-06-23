@@ -5,6 +5,7 @@
             "name" : "NIKE AIR ZOOM-TYPE",
             "category" : "Men, Sport, Sneaker",
             "brand" : "NIKE",
+            "rating" : [],
             "colour" : "BLACK/SUMMIT WHITE-MENTA-ORANGE TRANCE",
             "description" : "When it comes to basketball, there is no way around Nike – the brand with the Swoosh belongs to the game like dunks, three-pointers and cross-overs. Whether in the NBA, European leagues or your neighborhood...",
             "price" : 2500000,
@@ -44,6 +45,7 @@
             "name" : "JORDAN WESTBROOK ONE TAKE",
             "category" : "Men, Sport, Sneaker",
             "brand" : "JORDAN",
+            "rating" : [],
             "colour" : "WHITE/WHITE-BLACK-RAGE GREEN",
             "description" : "In the game of basketball Michael Jordan is a god. Number 23 of the Chicago Bulls has set the bar extremely high: His six championship rings, five mvp`s, numerous scoring titles, not to mention his ...",
             "price" : 1500000,
@@ -83,6 +85,7 @@
             "name" : "NIKE KYRIE 6",
             "category" : "Men, Sport, Sneaker",
             "brand" : "NIKE",
+            "rating" : [],
             "colour" : "WHITE/BLUE FURY-OPTI YELLOW-DIGITAL PINK",
             "description" : "The NIKE KYRIE 6 is the latest addition to the signature performance line of Kyrie Irving and Nike. If you think about Uncle Drew, immediately the explosive dribblings and his speed of direction changees of the impersonated ankle breaker comes into mind. To never lose traction in these situations, the model has a sole with a continuous Air Zoom unit, which gives the athlete the necessary grip in every moment of the game. The additional strap over the upper provides additional traction and ankle support. True to the motto: \"You reach, I teach!\"",
             "price" : 1780000,
@@ -122,6 +125,7 @@
             "name" : "JORDAN AIR JORDAN 14 RETRO",
             "category" : "Men, Sport, Sneaker",
             "brand" : "JORDAN",
+            "rating" : [],
             "colour" : "BLACK/GYM RED-WHITE-OFF WHITE",
             "description" : "In the game of basketball Michael Jordan is a god. Number 23 of the Chicago Bulls has set the bar extremely high: His six championship rings, five mvp`s, numerous scoring titles, not to mention his ...",
             "price" : 2680000,
@@ -161,6 +165,7 @@
             "name" : "NIKE W NIKE REACT ELEMENT 55",
             "category" : "Women, Sport, Sneaker",
             "brand" : "NIKE",
+            "rating" : [],
             "colour" : "WHITE/FIRE PINK-SAPPHIRE-BARELY VOLT",
             "description" : "When it comes to basketball, there is no way around Nike – the brand with the Swoosh belongs to the game like dunks, three-pointers and cross-overs. Whether in the NBA, European leagues or your neighborhood ...",
             "price" : 2345000,
@@ -200,6 +205,7 @@
             "name" : "NIKE W AIR MAX 90",
             "category" : "Women, Sport, Sneaker",
             "brand" : "NIKE",
+            "rating" : [],
             "colour" : "WHITE/PARTICLE GREY-ROSE-BLACK",
             "description" : "When it comes to basketball, there is no way around Nike – the brand with the Swoosh belongs to the game like dunks, three-pointers and cross-overs. Whether in the NBA, European leagues or your neighborhood ...",
             "price" : 1987300,
@@ -239,6 +245,7 @@
             "name" : "VANS UA ERA (MIX & MATCH)",
             "category" : "Women, Converse",
             "brand" : "VANS",
+            "rating" : [],
             "colour" : "cadmium yellow/tidepool",
             "description" : "In 1966 Jim van Doren, Gordy Lee and Serge D''Elia founded the Van Doren Rubber Company. In a shop next to the factory they sold the Hi-Top (also Sk8-Hi). It was the first sneaker which ...",
             "price" : 678956,
@@ -278,6 +285,7 @@
             "name" : "VANS UA CLASSIC SLIP-ON (BREAST CANCER)",
             "category" : "Women, Converse",
             "brand" : "VANS",
+            "rating" : [],
             "colour" : "cadmium yellow/tidepool",
             "description" : "In 1966 Jim van Doren, Gordy Lee and Serge D''Elia founded the Van Doren Rubber Company. In a shop next to the factory they sold the Hi-Top (also Sk8-Hi). It was the first sneaker which ...",
             "price" : 543786,
@@ -317,6 +325,7 @@
             "name" : "NIKE WMNS NIKE AIR MAX 90 SLIDE",
             "category" : "Women, Sandals, Flip Flop ",
             "brand" : "NIKE",
+            "rating" : [],
             "colour" : "WHITE/SMOKE GREY-ROSE-LT SMOKE GREY",
             "description" : "When it comes to basketball, there is no way around Nike – the brand with the Swoosh belongs to the game like dunks, three-pointers and cross-overs. Whether in the NBA, European leagues or your neighborhood ...",
             "price" : 879650,
@@ -357,6 +366,7 @@
             "category" : "Man, Sandals, Flip Flop ",
             "brand" : "PLEASURES",
             "colour" : "BLACK",
+            "rating" : [],
             "description" : "When it comes to basketball, there is no way around Nike – the brand with the Swoosh belongs to the game like dunks, three-pointers and cross-overs. Whether in the NBA, European leagues or your neighborhood ...",
             "price" : 543000,
             "stock" : [
@@ -395,6 +405,7 @@
             "name" : "PUMA CLYDE HARDWOOD RETRO",
             "category" : "Man, Sport, Basketball",
             "brand" : "PUMA",
+            "rating" : [],
             "colour" : "Puma White-Orange Pop",
             "description" : "Der PUMA CLYDE HARDWOOD ehrt Walt \"Clyde\" Frazier, der mit dem originalen Puma Clyde in den 70ern zur Stilikone wurde. Auch der Clyde Hardwood verbindet wieder Performance mit Lifestyle und überzeugt damit auf ganzer Linie. Highlight hierbei ist die Dämpfung mittels ProFoam und die CMEVA Midsole. TPU im Fersenberiech verstärkt auch nochmal den Tragekomfort. Clyde approves this!",
             "price" : 2314870,
@@ -427,6 +438,46 @@
                 "https://kickz.akamaized.net/en/media/images/p/1200/puma-Clyde_Hardwood_Retro-Puma_White_Orange_Pop-4.jpg",
                 "https://kickz.akamaized.net/en/media/images/p/1200/puma-Clyde_Hardwood_Retro-Puma_White_Orange_Pop-5.jpg",
                 "https://kickz.akamaized.net/en/media/images/p/1200/puma-Clyde_Hardwood_Retro-Puma_White_Orange_Pop-6.jpg"
+            ] 
+        },
+        {
+            "id" : 12,
+            "name" : "ADIDAS PERFORMANCE MARQUEE MID - VEGAS",
+            "category" : "Man, Sport, Basketball",
+            "brand" : "ADIDAS",
+            "rating" : [],
+            "colour" : "legend ink/ftwr white/flash orange",
+            "description" : "When it comes to basketball, there is no way around Nike – the brand with the Swoosh belongs to the game like dunks, three-pointers and cross-overs. Whether in the NBA, European leagues or your neighborhood ...",
+            "price" : 1345650,
+            "stock" : [
+                {
+                    "code" : 38,
+                    "total" : 7
+                },
+                {
+                    "code" : 39,
+                    "total" : 9
+                },
+                {
+                    "code" : 40,
+                    "total" : 10
+                },
+                {
+                    "code" : 41,
+                    "total" : 3
+                },
+                {
+                    "code" : 42,
+                    "total" : 0
+                }
+            ],
+            "images" : [
+                "https://kickz.akamaized.net/en/media/images/p/1200/adidas_performance-MARQUEE_MID_VEGAS-legend_ink_ftwr_white_flash_orange-1.jpg",
+                "https://kickz.akamaized.net/en/media/images/p/1200/adidas_performance-MARQUEE_MID_VEGAS-legend_ink_ftwr_white_flash_orange-2.jpg",
+                "https://kickz.akamaized.net/en/media/images/p/1200/adidas_performance-MARQUEE_MID_VEGAS-legend_ink_ftwr_white_flash_orange-3.jpg",
+                "https://kickz.akamaized.net/en/media/images/p/1200/adidas_performance-MARQUEE_MID_VEGAS-legend_ink_ftwr_white_flash_orange-4.jpg",
+                "https://kickz.akamaized.net/en/media/images/p/1200/adidas_performance-MARQUEE_MID_VEGAS-legend_ink_ftwr_white_flash_orange-5.jpg",
+                "https://kickz.akamaized.net/en/media/images/p/1200/adidas_performance-MARQUEE_MID_VEGAS-legend_ink_ftwr_white_flash_orange-6.jpg"
             ] 
         }
     ],
