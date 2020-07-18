@@ -26,6 +26,20 @@
             "price" : 12999000,
             "image" : "https://images.samsung.com/is/image/samsung/id-galaxy-note10-n970-sm-n970fzsdxid-frontauraglow-182047742?$PD_GALLERY_L_SHOP_JPG$",
             "stock" : 16
+        },
+        {
+            "id" : 2,
+            "name" : "iPhone X",
+            "price" : 14999000,
+            "image" : "https://ibox.co.id/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-s-white.png",
+            "stock" : 9
+        },
+        {
+            "id" : 3,
+            "name" : "Google Pixel 4",
+            "price" : 10060820,
+            "image" : "https://images-na.ssl-images-amazon.com/images/I/61C9GrXEp4L._AC_SY679_.jpg",
+            "stock" : 11
         }
     ],
     "histories" : []
