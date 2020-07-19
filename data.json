@@ -1,54 +1,42 @@
 {
-    "users" : [
-        {
-            "id" : 1,
-            "name" : "admin",
-            "email" : "admin@gmail.com",
-            "role" : "admin"
-        },
-        {
-            "id" : 2,
-            "name" : "handy",
-            "email" : "handy@gmail.com",
-            "role" : "user"
-        },
-        {
-            "id" : 3,
-            "name" : "krish j.",
-            "email" : "krish@gmail.com",
-            "role" : "user"
-        }
-    ],
-    "products" : [
-        {
-            "id" : 1,
-            "name" : "Samsung Galaxy Note 10",
-            "price" : 12999000,
-            "image" : "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note10-aura-glow.jpg",
-            "stock" : 10
-        },
-        {
-            "id" : 2,
-            "name" : "iPhone X",
-            "price" : 14999000,
-            "image" : "https://ibox.co.id/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-s-white.png",
-            "stock" : 10
-        },
-        {
-            "id" : 3,
-            "name" : "Google Pixel 4",
-            "price" : 10060820,
-            "image" : "https://images-na.ssl-images-amazon.com/images/I/61C9GrXEp4L._AC_SY679_.jpg",
-            "stock" : 4
-        },
-        {
-            "id" : 4,
-            "name" : "iPhone 11 Pro",
-            "price" : 16999000,
-            "image" : "https://ibox.co.id/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-11-pro-midnight-green.png",
-            "stock" : 11
-        }
-    ],
-    "cart" : [],
-    "histories" : []
+  "users": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "role": "admin",
+      "cart" : []
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung Galaxy Note 10",
+      "price": 12999000,
+      "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note10-aura-glow.jpg",
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "name": "iPhone X",
+      "price": 14999000,
+      "image": "https://ibox.co.id/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-s-white.png",
+      "stock": 10
+    },
+    {
+      "id": 3,
+      "name": "Google Pixel 4",
+      "price": 10060820,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61C9GrXEp4L._AC_SY679_.jpg",
+      "stock": 4
+    },
+    {
+      "id": 4,
+      "name": "iPhone 11 Pro",
+      "price": 16999000,
+      "image": "https://ibox.co.id/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-11-pro-midnight-green.png",
+      "stock": 11
+    }
+  ],
+  "histories": []
 }
