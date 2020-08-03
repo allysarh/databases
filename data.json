@@ -5,22 +5,7 @@
       "name": "admin",
       "email": "admin@gmail.com",
       "role": "admin",
-      "cart": [
-        {
-          "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note10-aura-glow.jpg",
-          "name": "Samsung Galaxy Note 10",
-          "qty": 3,
-          "total": 38997000,
-          "price": 12999000
-        },
-        {
-          "image": "https://images-na.ssl-images-amazon.com/images/I/61C9GrXEp4L._AC_SY679_.jpg",
-          "name": "Google Pixel 4",
-          "qty": 1,
-          "total": 10060820,
-          "price": 10060820
-        }
-      ]
+      "cart": []
     }
   ],
   "products": [
@@ -122,6 +107,29 @@
       "qtyTotal": 2,
       "total": 23059820,
       "id": 3
+    },
+    {
+      "transactionId": 1595485851056,
+      "date": "7/23/2020, 1:30:51 PM",
+      "products": [
+        {
+          "image": "https://images-na.ssl-images-amazon.com/images/I/61C9GrXEp4L._AC_SY679_.jpg",
+          "name": "Google Pixel 4",
+          "qty": 3,
+          "total": 30182460,
+          "price": 10060820
+        },
+        {
+          "image": "https://ibox.co.id/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-s-white.png",
+          "name": "iPhone X",
+          "qty": 1,
+          "total": 14999000,
+          "price": 14999000
+        }
+      ],
+      "qtyTotal": 4,
+      "total": 45181460,
+      "id": 4
     }
   ]
 }
