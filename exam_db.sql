@@ -158,7 +158,7 @@ CREATE TABLE `users` (
   `email` varchar(45) NOT NULL,
   `password` varchar(45) NOT NULL,
   `role` varchar(45) NOT NULL,
-  `status` varchar(45) NOT NULL,
+  `status` int NOT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
@@ -181,4 +181,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2020-08-03 22:55:30
+-- Dump completed on 2020-08-03 23:04:23
